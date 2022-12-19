@@ -3,9 +3,10 @@
 
 #General Info
 
-front-end: Reactjs, Redux, Axios, react-bootstrap
+Front-end: Reactjs, Redux, Axios, react-bootstrap
 
-Features
+Features:
+
 Home (List products),
 Detail products,
 Product category,
