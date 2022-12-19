@@ -1,5 +1,20 @@
 
 # Welcome to my React Ecommerce Website named as ShopKart.
+
+#General Info
+
+front-end: Reactjs, Redux, Axios, react-bootstrap
+
+Features
+Home (List products)
+Detail products
+Product category
+Filter products
+Contact 
+Cart
+Login / Register
+
+ScreenShot
 ![Screenshot (487)](https://user-images.githubusercontent.com/88107652/208452305-bbaf6ead-beef-4bb5-8215-9f55e06d0bad.png)
 ![Screenshot (488)](https://user-images.githubusercontent.com/88107652/208452348-fb700eb8-a34b-47a2-806e-a6cf20be5e68.png)
 ![Screenshot (489)](https://user-images.githubusercontent.com/88107652/208452356-0692b7dc-b372-4735-a56f-de9ae2846e24.png)
