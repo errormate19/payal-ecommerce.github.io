@@ -6,12 +6,12 @@
 front-end: Reactjs, Redux, Axios, react-bootstrap
 
 Features
-Home (List products)
-Detail products
-Product category
-Filter products
-Contact 
-Cart
+Home (List products),
+Detail products,
+Product category,
+Filter products,
+Contact,
+Cart,
 Login / Register
 
 ScreenShot
